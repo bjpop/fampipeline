@@ -7,6 +7,7 @@ from stages import Stages
 from utils import safe_make_dir
 
 
+
 def make_pipeline(state):
     '''Build the pipeline by constructing stages and connecting them together'''
     # Build an empty pipeline
